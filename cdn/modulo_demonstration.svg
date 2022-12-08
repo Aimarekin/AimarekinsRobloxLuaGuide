@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.3576 26.2105">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.3576 26.2105"><script xmlns=""/>
   <g stroke-width=".2646">
-    <text xml:space="preserve" x="-1.1627" y="8.8301" font-family="sans-serif" font-size="10.5833" font-weight="400" letter-spacing="0" style="line-height:1.25" word-spacing="0">
+    <text x="-1.1627" y="8.8301" font-family="sans-serif" font-size="10.5833" font-weight="400" letter-spacing="0" style="line-height:1.25" word-spacing="0">
       <tspan x="-1.1627" y="8.8301">13</tspan>
     </text>
-    <path fill="none" stroke="#000" d="M16.52 0v9.8746h20.7414" />
-    <text xml:space="preserve" x="17.0744" y="8.6906" font-family="sans-serif" font-size="10.5833" font-weight="400" letter-spacing="0" style="line-height:1.25" word-spacing="0">
+    <path fill="none" stroke="#000" d="M16.52 0v9.8746h20.7414"/>
+    <text x="17.0744" y="8.6906" font-family="sans-serif" font-size="10.5833" font-weight="400" letter-spacing="0" style="line-height:1.25" word-spacing="0">
       <tspan x="17.0744" y="8.6906">5</tspan>
     </text>
-    <text xml:space="preserve" x="17.1157" y="20.3326" fill="red" font-family="sans-serif" font-size="10.5833" font-weight="400" letter-spacing="0" style="line-height:1.25" word-spacing="0">
+    <text x="17.1157" y="20.3326" fill="red" font-family="sans-serif" font-size="10.5833" font-weight="400" letter-spacing="0" style="line-height:1.25" word-spacing="0">
       <tspan x="17.1157" y="20.3326">2</tspan>
     </text>
-    <text xml:space="preserve" x="5.5759" y="20.3326" fill="#00f" font-family="sans-serif" font-size="10.5833" font-weight="400" letter-spacing="0" style="line-height:1.25" word-spacing="0">
+    <text x="5.5759" y="20.3326" fill="#00f" font-family="sans-serif" font-size="10.5833" font-weight="400" letter-spacing="0" style="line-height:1.25" word-spacing="0">
       <tspan x="5.5759" y="20.3326">3</tspan>
     </text>
-    <path fill="none" stroke="#00f" d="M4.591 21.0988c4.4768 2.6727 8.6194 0 8.6194 0" />
-    <text xml:space="preserve" x="1.4506" y="26.1605" fill="#00f" font-family="sans-serif" font-size="3.5278" font-weight="400" letter-spacing="0" style="line-height:2" word-spacing="0">
+    <path fill="none" stroke="#00f" d="M4.591 21.0988c4.4768 2.6727 8.6194 0 8.6194 0"/>
+    <text x="1.4506" y="26.1605" fill="#00f" font-family="sans-serif" font-size="3.5278" font-weight="400" letter-spacing="0" style="line-height:2" word-spacing="0">
       <tspan x="1.4506" y="26.1605" style="line-height:2">Modulus</tspan>
     </text>
-    <text xml:space="preserve" x="25.5332" y="20.2594" fill="red" font-family="sans-serif" font-size="3.5278" font-weight="400" letter-spacing="0" style="line-height:2" word-spacing="0">
+    <text x="25.5332" y="20.2594" fill="red" font-family="sans-serif" font-size="3.5278" font-weight="400" letter-spacing="0" style="line-height:2" word-spacing="0">
       <tspan x="25.5332" y="20.2594" style="line-height:2">Whole Division</tspan>
     </text>
   </g>
